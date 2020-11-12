@@ -2,6 +2,7 @@
 
 main(int arg, char **argv){
 
-  printf("%s\n","Hello Word" );
+  for(int i=0;i<100;i++)
+    printf("%s\n","Hello Word" );
 
 }
