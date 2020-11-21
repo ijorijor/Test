@@ -4,14 +4,9 @@ main(int arg, char **argv){
 char str[200];
 int n;
 
-  for(int i=0;i<100;i++)
+  for(int i=0;i<300;i++)
     printf("%s\n","Hello Word" );
-  for(int i=0;i<100;i++)
-    printf("%s\n","Hello Word" );
-  for(int i=0;i<100;i++)
-    printf("%s\n","Hello Word" );
-  for(int i=0;i<100;i++)
-    printf("%s\n","Hello Word" );}
+
 
     n=0;
     while (n) {
